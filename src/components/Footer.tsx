@@ -6,7 +6,7 @@ const Footer = () => {
   
   const socialLinks = [
     { icon: Github, href: "https://github.com/Palak0230", label: "GitHub" },
-    { icon: Linkedin, href: "#", label: "LinkedIn" }
+    { icon: Linkedin, href: "https://www.linkedin.com/in/palak-pandey-3b4849279", label: "LinkedIn" }
   ];
 
   const quickLinks = [
